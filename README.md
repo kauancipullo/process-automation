@@ -20,7 +20,7 @@
 - **HTML Formatting for Symbols**: Uses HTML formatting to display green and red indicators for goal achievement.
 - **Data Handling**: Utilizes multiple data files (`Emails.xlsx`, `Vendas.xlsx`, `Lojas.csv`) to handle and process store information.
 
-## 📂 Estrutura do Projeto
+## 📂 Project Structure
 ```plaintext
 ├── process-automation/   # Main directory containing notebooks
     ├── main.ipynb        # Main Notebook
